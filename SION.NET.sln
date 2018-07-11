@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SION.NET", "SION.NET\SION.NET.csproj", "{19639FB1-C595-4C28-A9D4-385AF8F0F659}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SION.NET.Tests", "SION.NET.Tests\SION.NET.Tests.csproj", "{3ED0BC9C-9CDD-4E20-AEE3-0093B562895F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,17 @@ Global
 		{19639FB1-C595-4C28-A9D4-385AF8F0F659}.Release|x64.Build.0 = Release|Any CPU
 		{19639FB1-C595-4C28-A9D4-385AF8F0F659}.Release|x86.ActiveCfg = Release|Any CPU
 		{19639FB1-C595-4C28-A9D4-385AF8F0F659}.Release|x86.Build.0 = Release|Any CPU
+		{3ED0BC9C-9CDD-4E20-AEE3-0093B562895F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ED0BC9C-9CDD-4E20-AEE3-0093B562895F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ED0BC9C-9CDD-4E20-AEE3-0093B562895F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3ED0BC9C-9CDD-4E20-AEE3-0093B562895F}.Debug|x64.Build.0 = Debug|Any CPU
+		{3ED0BC9C-9CDD-4E20-AEE3-0093B562895F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3ED0BC9C-9CDD-4E20-AEE3-0093B562895F}.Debug|x86.Build.0 = Debug|Any CPU
+		{3ED0BC9C-9CDD-4E20-AEE3-0093B562895F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ED0BC9C-9CDD-4E20-AEE3-0093B562895F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ED0BC9C-9CDD-4E20-AEE3-0093B562895F}.Release|x64.ActiveCfg = Release|Any CPU
+		{3ED0BC9C-9CDD-4E20-AEE3-0093B562895F}.Release|x64.Build.0 = Release|Any CPU
+		{3ED0BC9C-9CDD-4E20-AEE3-0093B562895F}.Release|x86.ActiveCfg = Release|Any CPU
+		{3ED0BC9C-9CDD-4E20-AEE3-0093B562895F}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
